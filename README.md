@@ -33,15 +33,14 @@ The screenshot below shows the `-1` vote count displayed in the poll UI.
 
 ![Proof of Bug](PROOF/whatsapp-bug-screenshot.png)
 
-*(A screen recording demonstrating the reproduction steps is also available in the `PROOF` directory.)*
 
 ---
 
 ### **Disclosure Timeline**
 
-* **Discovered:** `[Date of Discovery, e.g., July 21, 2025]`
-* **Reported to Meta:** `[Date of Submission, e.g., July 22, 2025]`
-* **Acknowledged by Meta:** `[Date of Response, e.g., July 22, 2025]`
+* **Discovered:**  `July 23, 2025`
+* **Reported to Meta:** `July 23, 2025`
+* **Acknowledged by Meta:** `July 23, 2025`
 
 ### **Official Response from Meta Security**
 
@@ -59,5 +58,5 @@ The following response was received from the Meta Security team, confirming thei
 
 This report was submitted by **Jayant**, a B.Tech student from Delhi, India, with a passion for software quality and application security.
 
-* **LinkedIn:** `[Your LinkedIn Profile URL]`
-* **GitHub:** `[Your GitHub Profile URL]`
+* **LinkedIn:** `www.linkedin.com/in/jayantranjanjha986`
+* **GitHub:** `(https://github.com/JAYANTRANJANJHA)`
